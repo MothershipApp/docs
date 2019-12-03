@@ -27,3 +27,5 @@ This is totally up to you but we tend to store 7 daily backups, 4 weekly backups
 Once you have some backups scheduled and they have had a chance to run you will see them in the various environments once you click "Load backups for this environment". You can also click "Backup Now" for an on-demand backup.
 
 Here you can see what was backed up and also copy the sync command for Mothership CLI if you wish to jump to that backup on your local machine.
+
+## Testing deployment
